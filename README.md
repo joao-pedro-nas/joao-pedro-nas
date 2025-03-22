@@ -1,12 +1,12 @@
 ## Olá! Seja bem-vindo!👋
 
-Meu nome é João Pedro Nascimento. Sou aluno do 7º período no curso de graduação em Ciências Econômicas. Atuei como monitor de Microeconomia (2023) e, atualmente, atuo como monitor
-de Econometria (2024).
+Meu nome é João Pedro Nascimento. Sou bacharel em Ciências Econômicas pela Universidade Federal Fluminense (UFF). Atuei como monitor das disciplinas Teoria Microeconômica II (2023) e Econometria I (2024).
 
 📝 Áreas de Interesse:    
 - Economia do Crime.
 - Finanças.
 - Pobreza e Desigualdade.
+- Inteligência Artificial
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-pedro-nas&show_icons=true&theme=transparent)
 <div style="display: inline_block"><br>
